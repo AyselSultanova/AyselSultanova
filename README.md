@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data lovers
 - 📫 How to reach me ayslsltn@gmail.com
-- 😄 Pronouns: Aysel
+- 😄 Pronouns: She
 - ⚡ Fun fact: -
 
 <!---
